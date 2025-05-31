@@ -16,8 +16,10 @@
 
 ### 🛠 Tech Stack
 ```bash
-Languages:   Java, JavaScript
-Frontend:    HTML, CSS, React
-Backend:     Node.js, Express
-Database:    MongoDB
+Languages:   Java, JavaScript, HTML, CSS
+Frontend:    React.js, Tailwind CSS (learning)
+Backend:     Node.js, Express.js (learning)
+Database:    MongoDB (learning)
 Tools:       Git, GitHub, VS Code, Postman
+Currently Exploring: MERN stack, REST APIs, Responsive UI Design
+
