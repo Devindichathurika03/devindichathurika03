@@ -100,17 +100,6 @@ Pet adoption platform built with React and TypeScript featuring filtering, role-
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devindichathurika03&show_icons=true&hide_border=true" alt="Devindi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devindichathurika03&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
